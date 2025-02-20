@@ -10,7 +10,7 @@
 		"test": "vitest"
 	},
 	"devDependencies": {
-		"@cloudflare/workers-types": "^3.0.0",
-		"vitest": "^0.24.5"
+		"@cloudflare/workers-types": "^4.20250214.0",
+		"vitest": "^3.0.6"
 	}
 }
